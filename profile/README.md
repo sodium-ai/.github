@@ -1,5 +1,5 @@
 <center>
   
-  ![Sodium Banner](https://github.com/sodium-ai/.github/assets/21299126/7efe24e6-73ef-4da3-baf4-87b51025a50e)
+  ![Sodium Banner](https://github.com/sodium-ai/.github/assets/156876204/d8f4af0e-0f0e-4878-8c09-e4a390be1e5b)
 
 </center>
